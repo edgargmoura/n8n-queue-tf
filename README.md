@@ -2,7 +2,6 @@
 
 [![Terraform](https://img.shields.io/badge/Terraform-1.0+-623CE4?style=flat-square&logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
-[![License](https://www.credly.com/badges/755a7f33-1c4b-4f05-80f6-d0802f5c5bfd/linked_in?t=srvtrv)](LICENSE)
 
 Este repositório contém a configuração de infraestrutura como código (IaC) utilizando Terraform para provisionar um cluster em alta disponibilidade na AWS, rodando a aplicação n8n com suporte a mensageria.
 
